@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">android-auth0-kotlin</string>
+    <string name="com_auth0_client_id">YOUR_CLIENT_ID</string>
+    <string name="com_auth0_domain">YOUR_DOMAIN_NAME</string>
+</resources>
