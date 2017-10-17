@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">android-auth0-kotlin</string>
-    <string name="com_auth0_client_id">YOUR_CLIENT_ID</string>
-    <string name="com_auth0_domain">YOUR_DOMAIN_NAME</string>
+    <string name="com_auth0_client_id">CLIENT_ID</string>
+    <string name="com_auth0_domain">AUTH0_DOMAIN</string>
+    <string name="preference_file_key">android_kotlin_auth0_app</string>
 </resources>
